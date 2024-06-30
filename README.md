@@ -1,2 +1,1 @@
-# Kimia Farma Big Data Analytics Project Based Internship Program
-# Batch June 2024
+# Kimia Farma Big Data Analytics Project Based Internship Program - June 2024
