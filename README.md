@@ -1,4 +1,5 @@
 # Kimia Farma Big Data Analytics Project Based Internship Program - June 2024
+Tools : |📁 GitHub |📝 SQL Query |💻 Google BigQuery |📊 Google Looker Studio
 by Syarif Romadhon
 
 ## Project Description
