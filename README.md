@@ -1,6 +1,8 @@
 # Kimia Farma Big Data Analytics Project Based Internship Program - June 2024
 by Syarif Romadhon
 
+Tools : |💻 Google BigQuery |📊 Google Looker Studio
+
 ## Project Description
 As a Big Data Analytics Intern at Kimia Farma, you'll be tasked with evaluating the company's business performance from 2020 to 2023. This project will require a deep understanding of data and strong analytical skills. Here's a breakdown of the key tasks involved:
 1. Importing Dataset to BigQuery
