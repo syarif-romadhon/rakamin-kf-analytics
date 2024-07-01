@@ -29,12 +29,26 @@ Create an analysis table based on the aggregated results of the four imported ta
 - actual_price : harga obat,
 - discount_percentage : Persentase diskon yang diberikan pada obat,
 - persentase_gross_laba : Persentase laba yang seharusnya diterima dari obat dengan ketentuan berikut:
- - Harga <= Rp 50.000 -> laba 10%
- - Harga > Rp 50.000 - 100.000 -> laba 15%
- - Harga > Rp 100.000 - 300.000 -> laba 20%
- - Harga > Rp 300.000 - 500.000 -> laba 25%
- - Harga > Rp 500.000 -> laba 30%,
+  - Harga <= Rp 50.000 -> laba 10%
+  - Harga > Rp 50.000 - 100.000 -> laba 15%
+  - Harga > Rp 100.000 - 300.000 -> laba 20%
+  - Harga > Rp 300.000 - 500.000 -> laba 25%
+  - Harga > Rp 500.000 -> laba 30%,
 - nett_sales : harga setelah diskon,
 - nett_profit : keuntungan yang diperoleh Kimia Farma,
 - rating_transaksi : penilaian konsumen terhadap transaksi yang dilakukan.
+
+### 3. Create Dashboard Performance Analytics Kimia Farma Business Year 2020-2023
+Create a performance analysis dashboard for Kimia Farma 2020-2023 in Google Looker Studio based on the “Tabel Analisa” that previously created in BigQuery. So we need to connect the table to Google Looker Studio. The dashboard content must include:
+- Title Dashboard
+- Dashboard Summary
+- Filter Control
+- Data Snapshot
+- Year-on-year comparison of Kimia Farma's revenue
+- Top 10 Total transactions of provincial branches
+- Top 10 Nett sales of provincial branches
+- Top 5 Branches with Highest Rating, but Lowest Rating Lowest Transaction Rating
+- Indonesia's Geo Map for Total Profit of Each Province
+- And other analysis that you can explore.
+
 
