@@ -78,11 +78,11 @@ Create a performance analysis dashboard for Kimia Farma 2020-2023 in Google Look
 
 
 ## Result
-### Import Data Tables
+### 1. Import Data Tables
 ![BigQuery Tables Screenshot](bigquery_screenshot.png)
-### Create Tabel Analisa in BigQuery ([link](https://console.cloud.google.com/bigquery?sq=67725819441:49e812a80712472d925a227a90b7f9ca))
+### 2. Create Tabel Analisa in BigQuery ([link](https://console.cloud.google.com/bigquery?sq=67725819441:49e812a80712472d925a227a90b7f9ca))
 ![Tabel Analisa Screenshot](tabel_analisa_screenshot.png)
-### Kimia Farma Performance Analytics Dashboard ([link](https://lookerstudio.google.com/reporting/e3d7f563-0deb-4a37-aa85-a1d729b53c96))
+### 3. Kimia Farma Performance Analytics Dashboard ([link](https://lookerstudio.google.com/reporting/e3d7f563-0deb-4a37-aa85-a1d729b53c96))
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 
