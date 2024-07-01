@@ -52,3 +52,6 @@ Create a performance analysis dashboard for Kimia Farma 2020-2023 in Google Look
 - And other analysis that you can explore.
 
 
+## Result
+
+
