@@ -10,9 +10,32 @@ As a Big Data Analytics Intern at Kimia Farma, you'll be tasked with evaluating 
 ### 1. Importing Dataset to BigQuery
 Import the four datasets to become a table in BigQuery, the table name is the name of the dataset, but without ".csv"
 - kf_final_transaction.csv ([link](https://drive.google.com/file/d/1iDOBdKZ4-kkLhpklQWWrsFvACtI7MCz3/view?usp=sharing))
+  - transaction_id: kode id transaksi
+  - product_id : kode produk obat
+  - branch_id: kode id cabang Kimia Farma
+  - customer_name: nama customer yang melakukan transaksi
+  - date: tanggal transaksi dilakukan
+  - price: harga obat
+  - discount_percentage: Persentase diskon yang diberikan pada obat
+  - rating: penilaian konsumen terhadap transaksi yang dilakukan
 - kf_inventory.csv ([link](https://drive.google.com/file/d/1ihtG2t0V1AO0IAGkGwQaqtba6AxDEKDI/view?usp=sharing))
+  - inventory_id: kode inventory produk obat
+  - branch_id: kode id cabang Kimia Farma
+  - product_id: kode id produk obat
+  - product_name: nama produk obat
+  - opname_stock: jumlah stok produk obat
 - kf_kantor_cabang.csv ([link](https://drive.google.com/file/d/1vzaasqIeXqqe_jI99dNLaa8nxnoe9OWW/view?usp=sharing))
+  - branch_id: kode id cabang Kimia Farma
+  - branch_category: kategori cabang Kimia Farma
+  - branch_name: nama kantor cabang Kimia Farma
+  - kota: kota cabang Kimia Farma
+  - provinsi: provinsi cabang Kimia Farma
+  - rating: penilaian konsumen terhadap cabang Kimia Farma
 - kf_product.csv ([link](https://drive.google.com/file/d/1739wO7BwtVStHCA4Dcj9xGhlc_blBNbT/view?usp=sharing))
+  - product_id: kode produk obat
+  - product_name: nama produk obat
+  - product_category: kategori produk obat
+  - price: harga obat
 
 ### 2. Create “Tabel Analisa”
 Create an analysis table based on the aggregated results of the four imported tables. The following are the mandatory columns in the table:
