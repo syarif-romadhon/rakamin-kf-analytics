@@ -77,7 +77,7 @@ Create a performance analysis dashboard for Kimia Farma 2020-2023 in Google Look
 - And other analysis that you can explore.
 
 
-## Result
+## Result ([Presentation Link](https://docs.google.com/presentation/d/1cZKq3UOePJhNSXiIT65C4kNOQQ9AvVpX/edit?usp=sharing&ouid=100990295891579990270&rtpof=true&sd=true))
 ### 1. Import Data Tables
 ![BigQuery Tables Screenshot](bigquery_screenshot.png)
 ### 2. Create Tabel Analisa in BigQuery ([link](https://console.cloud.google.com/bigquery?sq=67725819441:49e812a80712472d925a227a90b7f9ca))
